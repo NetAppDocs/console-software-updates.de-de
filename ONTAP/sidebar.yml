@@ -1,0 +1,13 @@
+---
+section: ontap
+title: Verwenden Sie Software-Updates
+entries:
+- title: Vergleichen Sie ONTAP -Versionen, um die Vorteile und Risiken des Updates
+    zu verstehen
+  url: "/ONTAP/choose-ontap-910-later.html"
+- title: ONTAP -Blocker beheben und Warnungen bestätigen
+  url: "/ONTAP/fix-blockers-warnings.html"
+- title: Update des ONTAP -Speichersystems einleiten
+  url: "/ONTAP/update-storage-system.html"
+- title: Überprüfen Sie den Status des ONTAP -Speichersystem-Updates
+  url: "/ONTAP/validate-storage-system-update.html"

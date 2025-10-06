@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates-faq.html 
+keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions, troubleshooting 
+summary: Sehen Sie sich die Antworten auf die häufig gestellten Fragen zu Software-Updates an. 
+---
+= Häufig gestellte Fragen zu Software-Updates
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Wenn Sie mehr über Software-Updates erfahren möchten oder Hilfe bei der Fehlerbehebung benötigen, können Sie diese Fragen durchgehen, um eine schnelle Antwort zu erhalten.
+
+*Wie lautet die URL für Software-Updates?*
+
+Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["https://console.netapp.com/"^] um auf die NetApp Konsole zuzugreifen.
+
+*Benötigen Sie eine Lizenz, um Software-Updates zu nutzen?*
+
+Eine NetApp -Lizenzdatei (NLF) ist nicht erforderlich.
+
+*Warum kann ich den Cluster auch nach der Aktualisierung der ONTAP -Version des Clusters nicht auf der Registerkarte „Verlauf“ anzeigen?*
+
+Es dauert 2 bis 3 Stunden, bis der Cluster auf der Registerkarte „Verlauf“ angezeigt wird.  Sobald die ONTAP -Version des Clusters aktualisiert ist, wird AutoSupport generiert.  Die Verarbeitung der AutoSupport -Daten und die Anzeige der neuesten ONTAP Version dauert 2 bis 3 Stunden.
+
+*Warum wird mir im Dashboard für Softwareupdates die ältere Version von ONTAP angezeigt, selbst nachdem ich die ONTAP -Version des Clusters aktualisiert habe?*
+
+Es dauert 2 bis 3 Stunden, bis der Cluster auf der Registerkarte „Verlauf“ angezeigt wird.  Sobald die ONTAP -Version des Clusters aktualisiert ist, wird AutoSupport generiert.  Die Verarbeitung der AutoSupport -Daten und die Anzeige der neuesten ONTAP Version dauert 2 bis 3 Stunden.
+
+*Warum werden mir für unterschiedliche Updates unterschiedliche Bildschirme angezeigt?*
+
+Dies liegt an der aktuellen ONTAP -Version und der Nichtverfügbarkeit eines Konsolenagenten für Cluster.  Ein Konsolenagent führt das ONTAP Update innerhalb der Konsole durch und erfordert nicht, dass Sie die Konsole für ein Update verlassen.  Wenn Sie keinen Konsolenagenten haben, werden Sie zum System Manager umgeleitet und müssen die Anmeldeinformationen des ONTAP Clusters erneut eingeben.  Informationen zum ONTAP -Aktualisierungsprozess für verschiedene ONTAP-Versionen finden Sie unterlink:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Unterstützte ONTAP -Systeme"] .
+
+*Was benötige ich, um Cluster zu erkennen?*
+
+Um ein ONTAP Update für Ihren gewünschten Cluster durchzuführen, benötigen Sie die ONTAP Cluster-IP und die Administratoranmeldeinformationen für die Verbindung mit dem Cluster.  Im Rahmen der Clustererkennung müssen Sie diese Details angeben, damit das ONTAP Update automatisch ausgeführt werden kann.
+
+Sie müssen außerdem über eine der folgenden Zugriffsrollen verfügen: Org-Administrator, Ordner- oder Projektadministrator oder Speicheradministrator.

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/validate-storage-system-update.html 
+keywords: validate status of ontap update, track status of ontap update 
+summary: Überprüfen Sie den Status Ihres ONTAP -Updates, um die nächsten Schritte zu entscheiden. 
+---
+= Überprüfen Sie den Status des ONTAP -Speichersystem-Updates
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie können Software-Updates verwenden, um den Status des ONTAP -Updates zu validieren.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste der Konsole *Health* > *Software-Updates* aus.
+. Klicken Sie auf die Registerkarte *Verlauf*, um den Status des ONTAP Updates anzuzeigen.
+
+
+
+NOTE: Es dauert 2 bis 3 Stunden, bis der Cluster auf der Registerkarte „Verlauf“ angezeigt wird.

@@ -1,0 +1,39 @@
+---
+indexpage:
+  title: Dokumentation zu Softwareupdates
+  keywords: software updates, update ONTAP, upgrade ONTAP, ONTAP version, ONTAP 9.8
+  lead: Durch Software-Updates können Kunden ONTAP Updates optimieren.  Es automatisiert
+    die Bewertungs-, Planungs- und Ausführungsprozesse.
+  tiles:
+  - title: Erste Schritte
+    links:
+    - title: Informationen zu Software-Updates
+      url: "/get-started/software-updates.html"
+    - title: Was ist neu bei Software-Updates?
+      url: "/release-notes/whats-new.html"
+    - title: Schnellstart
+      url: "/get-started/quick-start-ontap-update.html"
+    - title: Voraussetzungen
+      url: "/get-started/prerequisites-ontap-update.html"
+    - title: Melden Sie sich bei Software-Updates an
+      url: "/get-started/login-software-updates.html"
+    - title: FAQ
+      url: "/get-started/software-updates-faq.html"
+  - title: Verwenden Sie Software-Updates
+    links:
+    - title: Wählen Sie ONTAP Zielversion 9.10 oder höher
+      url: "/ONTAP/choose-ontap-910-later.html"
+    - title: Beheben und bestätigen Sie ONTAP -Blocker
+      url: "/ONTAP/fix-blockers-warnings.html"
+    - title: Vollständiges Update des ONTAP -Speichersystems
+      url: "/ONTAP/update-storage-system.html"
+    - title: Überprüfen Sie den Status des ONTAP -Speichersystem-Updates
+      url: "/ONTAP/validate-storage-system-update.html"
+  - title: Blogs und Community
+    links:
+    - title: NetApp Konsole
+      url: https://www.netapp.com/console
+    - title: NetApp Datenservices
+      url: https://www.netapp.com/data-services/
+    - title: NetApp Community
+      url: https://community.netapp.com/

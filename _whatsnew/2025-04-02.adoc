@@ -1,0 +1,9 @@
+= Geminderte Risiken
+:allow-uri-read: 
+
+
+
+
+=== Geminderte Risiken
+
+Im Zusammenfassungsbereich der BlueXP software updates können Sie jetzt die Gesamtzahl der Risiken anzeigen, die durch das Betriebssystemupdate gemindert werden können.  Auf diese Weise können Benutzer die Sicherheits- und Stabilitätsverbesserungen ihrer Installationsbasis beurteilen.

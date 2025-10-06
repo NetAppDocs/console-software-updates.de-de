@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/fix-blockers-warnings.html 
+keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
+summary: Beheben Sie ONTAP Blocker und bestätigen Sie Warnungen, die Sie daran hindern, das ONTAP Update abzuschließen. 
+---
+= Beheben Sie alle Blocker mithilfe von Software-Updates vor einem ONTAP -Upgrade
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Nachdem Sie die ONTAP Zielversion für Ihr ONTAP Speichersystem identifiziert haben, sollten Sie alle Blocker beheben und bestätigen und die Warnungen überprüfen, bevor Sie das ONTAP -Speichersystem aktualisieren.
+
+Sie müssen alle Blocker beheben und bestätigen, bevor Sie die Software aktualisieren.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste der Konsole *Health* > *Software-Updates* aus.
++
+Die Konsole zeigt die Liste der Cluster an, die ein Software-Update erfordern.
+
+. Identifizieren Sie die ONTAP Zielversion für Ihr Speichersystem.  Informationen zum Identifizieren der ONTAP Zielversion finden Sie unterlink:../ONTAP/choose-ontap-910-later.html["Vergleichen Sie ONTAP -Versionen, um die Vorteile und Risiken der Verwendung von Software-Updates zu verstehen"] .
+. Nachdem Sie sich für die ONTAP Zielversion entschieden haben, wählen Sie *Für Update vorbereiten*, um den Update-Vorgang zu starten.
++
+Die Liste der Blocker und Warnungen wird angezeigt.
+
+. Wählen Sie den Blocker aus, um die Anweisungen zum Beheben des Blockers anzuzeigen.
+. Führen Sie die angegebenen Schritte manuell aus, um den Blocker zu beheben.
+. Wählen Sie die behobenen Blocker aus und wählen Sie *Auswahl bestätigen*, um zu bestätigen, dass die Blocker behoben wurden.
+
+
+
+NOTE: Sie müssen alle Blockierer beheben und bestätigen, um mit der Aktualisierung fortzufahren.
+
+. Wählen Sie die Registerkarte *Warnungen*, um die Warnungen zu überprüfen, bevor Sie mit der Softwareaktualisierung fortfahren.
+. Wählen Sie die Registerkarte *Bestätigen*, um die behobenen Blocker anzuzeigen.
+. Wählen Sie *Mit der Aktualisierung fortfahren*, um mit dem Aktualisierungsvorgang fortzufahren.
+

@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites-ontap-update.html 
+keywords: prerequisites for ontap update, ontap update requirements, ontap update versions, prepare for ontap update 
+summary: Überprüfen Sie die Voraussetzungen und Anforderungen, bevor Sie mit Ihrem ONTAP Update fortfahren. 
+---
+= Bereiten Sie sich auf die Aktualisierung von ONTAP mithilfe von Software-Updates vor
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie sollten die Voraussetzungen und Anforderungen überprüfen, bevor Sie mit Ihrem ONTAP Update fortfahren.  Mithilfe von Software-Updates können Sie die Bereitschaft Ihres Systems, Ihrer Anmeldung, Ihres Netzwerkzugriffs und Ihres Webbrowsers überprüfen.
+
+.Erforderliche NetApp Konsolenrolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator, Speicherbetrachter oder Systemintegritätsspezialist.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Informieren Sie sich über Konsolenzugriffsrollen."^]
+
+Um Software-Updates nutzen zu können, sollten Sie sicherstellen, dass Ihr System alle Voraussetzungen erfüllt.
+
+* In der Konsole wird ein System eingerichtet.
+* Während der Durchführung der Softwareaktualisierung stehen Administratoranmeldeinformationen für den gewünschten Cluster zur Verfügung.
+* Alle Knoten im Cluster senden AutoSupport Daten.
+* Alle Knoten sollten auf ONTAP 9.10 oder einer späteren Version laufen.
+* Knoten sollten sich nicht in einer MetroCluster -Konfiguration befinden.
+
