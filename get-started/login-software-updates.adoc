@@ -11,7 +11,7 @@ summary: Melden Sie sich an und greifen Sie auf Software-Updates zu.
 
 
 [role="lead"]
-Um auf Software-Updates zuzugreifen, müssen Sie sich bei der NetApp Konsole anmelden.
+Um auf Software-Updates zuzugreifen, müssen Sie sich bei der NetApp Console anmelden.
 
 Melden Sie sich mit Ihren Anmeldeinformationen für die NetApp Support-Site an oder registrieren Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^] .
 

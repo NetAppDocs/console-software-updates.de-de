@@ -6,4 +6,4 @@
 
 === BlueXP -Zugriffsrolle erforderlich
 
-Sie benötigen jetzt eine der folgenden Zugriffsrollen, um Softwareupdates zu installieren: *Organisationsadministrator*, *Ordner- oder Projektadministrator*, *Speicheradministrator*, *Speicherbetrachter* oder *Speicherintegritätsspezialist*.  Benutzer mit der Rolle „Speicherbetrachter“ verfügen über verschiedene Berechtigungen im Zusammenhang mit Softwareupdates, können jedoch keine Softwareupdates installieren.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP -Zugriffsrollen."^]
+Sie benötigen jetzt eine der folgenden Zugriffsrollen, um Softwareupdates zu installieren: *Organisationsadministrator*, *Ordner- oder Projektadministrator*, *Speicheradministrator*, *Speicherbetrachter* oder *Speicherintegritätsspezialist*. Benutzer mit der Rolle „Speicherbetrachter“ verfügen über verschiedene Berechtigungen im Zusammenhang mit Softwareupdates, können jedoch keine Softwareupdates installieren.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP -Zugriffsrollen."^]

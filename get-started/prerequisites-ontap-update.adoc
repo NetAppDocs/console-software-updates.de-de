@@ -13,7 +13,7 @@ summary: Überprüfen Sie die Voraussetzungen und Anforderungen, bevor Sie mit I
 [role="lead"]
 Sie sollten die Voraussetzungen und Anforderungen überprüfen, bevor Sie mit Ihrem ONTAP Update fortfahren.  Mithilfe von Software-Updates können Sie die Bereitschaft Ihres Systems, Ihrer Anmeldung, Ihres Netzwerkzugriffs und Ihres Webbrowsers überprüfen.
 
-.Erforderliche NetApp Konsolenrolle:
+.Erforderliche NetApp Console :
 Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator, Speicherbetrachter oder Systemintegritätsspezialist.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Informieren Sie sich über Konsolenzugriffsrollen."^]
 
 Um Software-Updates nutzen zu können, sollten Sie sicherstellen, dass Ihr System alle Voraussetzungen erfüllt.

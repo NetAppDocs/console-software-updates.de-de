@@ -15,7 +15,7 @@ Wenn Sie mehr über Software-Updates erfahren möchten oder Hilfe bei der Fehler
 
 *Wie lautet die URL für Software-Updates?*
 
-Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["https://console.netapp.com/"^] um auf die NetApp Konsole zuzugreifen.
+Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["https://console.netapp.com/"^] um auf die NetApp Console zuzugreifen.
 
 *Benötigen Sie eine Lizenz, um Software-Updates zu nutzen?*
 
