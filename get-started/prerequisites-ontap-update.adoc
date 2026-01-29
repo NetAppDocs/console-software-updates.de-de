@@ -21,6 +21,6 @@ Um Software-Updates nutzen zu können, sollten Sie sicherstellen, dass Ihr Syste
 * In der Konsole wird ein System eingerichtet.
 * Während der Durchführung der Softwareaktualisierung stehen Administratoranmeldeinformationen für den gewünschten Cluster zur Verfügung.
 * Alle Knoten im Cluster senden AutoSupport Daten.
-* Alle Knoten sollten auf ONTAP 9.10 oder einer späteren Version laufen.
+* Alle Knoten sollten auf ONTAP 9.10.1 oder einer späteren Version laufen.
 * Knoten sollten sich nicht in einer MetroCluster -Konfiguration befinden.
 

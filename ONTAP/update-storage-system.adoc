@@ -18,8 +18,14 @@ Nachdem Sie die ONTAP Zielversion identifiziert und alle Blocker behoben und bes
 +
 Die Liste der Cluster, die ein Software-Update benötigen, wird angezeigt.
 
-. Identifizieren Sie die ONTAP Zielversion für Ihr Speichersystem.  Informationen zum Identifizieren der ONTAP Zielversion finden Sie unterlink:../ONTAP/choose-ontap-910-later.html["Vergleichen Sie ONTAP -Versionen, um die Vorteile und Risiken der Verwendung von Software-Updates zu verstehen"] .
-. Beheben und bestätigen Sie die ONTAP -Blocker.  Informationen zum Beheben von Blockern finden Sie unterlink:../ONTAP/fix-blockers-warnings.html["Beheben Sie alle Blocker mithilfe von Software-Updates vor einem ONTAP -Upgrade"] .
+. Ermitteln Sie die ONTAP-Zielversion für Ihr Speichersystem.
++
+Informationen zur Ermittlung der ONTAP Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["Vergleichen Sie ONTAP -Versionen, um die Vorteile und Risiken der Verwendung von Software-Updates zu verstehen"].
+
+. Beheben und bestätigen Sie die ONTAP Blocker.
++
+Informationen zur Behebung von Blockern finden Sie unter link:../ONTAP/fix-blockers-warnings.html["Beheben Sie alle Blocker mithilfe von Software-Updates vor einem ONTAP -Upgrade"].
+
 . Lesen und akzeptieren Sie die Endbenutzer-Lizenzvereinbarung.
 +
 Warten Sie, bis das ONTAP Image abgerufen wurde.

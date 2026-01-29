@@ -16,7 +16,7 @@ Es ist sehr wichtig, die mit der ONTAP Zielversion verbundenen Vorteile und Risi
 Sie können die Zielversion auswählen und sie mit der aktuellen Version vergleichen, um die Vorteile einer Aktualisierung auf die spezifische Version von ONTAP zu verstehen.  Sie können auch die Risiken sehen, die behoben werden, und die neuen Risiken (falls vorhanden), die beim Update auf die bestimmte Version von ONTAP entstehen.
 
 
-NOTE: Sie können diese Funktion nur verwenden, wenn Sie ONTAP 9.10 oder eine spätere Version ausführen.
+NOTE: Diese Funktion können Sie nur verwenden, wenn Sie ONTAP 9.10.1 oder eine neuere Version ausführen.
 
 .Schritte
 . Wählen Sie in der linken Navigationsleiste der Konsole *Health* > *Software-Updates* aus.

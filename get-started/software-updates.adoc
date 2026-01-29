@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: get-started/software-updates.html 
-keywords: ontap 9.10, ontap update, supported systems for ontap update, ontap version, software updates benefits 
+keywords: ontap 9.10.1, ontap update, supported systems for ontap update, ontap version, software updates benefits 
 summary: Aktualisieren Sie Ihr ONTAP -Speichersystem nahtlos, um die neuen und verbesserten Funktionen mithilfe von Software-Updates zu nutzen. 
 ---
 = Informationen zu Software-Updates
@@ -31,7 +31,7 @@ Erfahren Sie mehr über die https://docs.netapp.com/us-en/bluexp-setup-admin/con
 
 == Unterstützte ONTAP -Systeme
 
-Sie können das ONTAP Update mithilfe von Software-Updates nur abschließen, wenn Sie ONTAP 9.10 oder eine spätere Version verwenden.
+Sie können das ONTAP-Update nur mit Software-Updates abschließen, wenn Sie ONTAP 9.10.1 oder eine spätere Version verwenden.
 
 Die folgenden Informationen beschreiben den Software-Update-Prozess für verschiedene ONTAP Versionen:
 
@@ -39,17 +39,17 @@ Die folgenden Informationen beschreiben den Software-Update-Prozess für verschi
 | *Aktuelle ONTAP -Version* | *Aktualisierungsvorgang* 
 
 
-| 9.12 und höher | Alle Schritte des ONTAP Updates erfolgen innerhalb der Konsole. 
+| 9.12.1 und später | Alle Schritte des ONTAP Updates erfolgen innerhalb der Konsole. 
 
 
-| 9,10 bis 9,12 | Die Vorbereitung für das ONTAP -Update erfolgt auf den Bildschirmen für Software-Updates.  Sie werden zum System Manager weitergeleitet, um das eigentliche ONTAP Update durchzuführen.  Um alle Schritte des ONTAP Updates in der Konsole auszuführen, müssen Sielink:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html["Richten Sie einen Konsolenagenten ein"] . 
+| 9.10.1 bis 9.12.1 | Die Vorbereitung für das ONTAP -Update erfolgt auf den Bildschirmen für Software-Updates.  Sie werden zum System Manager weitergeleitet, um das eigentliche ONTAP Update durchzuführen.  Um alle Schritte des ONTAP Updates in der Konsole auszuführen, müssen Sielink:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html["Richten Sie einen Konsolenagenten ein"] . 
 
 
-| 9,8 bis 9,10 | Die Vorbereitung für das ONTAP -Update erfolgt auf den Bildschirmen für Software-Updates.  Sie werden zum System Manager weitergeleitet, um das eigentliche ONTAP Update durchzuführen. 
-
-
-| Unter 9,7 | Für diesen Cluster wird kein automatisiertes ONTAP Update unterstützt.  Sie müssen ONTAP manuell aktualisieren. Weitere Informationen finden Sie unter link:https://docs.netapp.com/us-en/ontap/upgrade/index.html["Aktualisieren Sie Ihre Speichersysteme manuell"] . 
+| 9.8 bis 9.10.1 | Die Vorbereitung für das ONTAP -Update erfolgt auf den Bildschirmen für Software-Updates.  Sie werden zum System Manager weitergeleitet, um das eigentliche ONTAP Update durchzuführen. 
 |===
+
+NOTE: Software-Updates werden mit Cloud Volumes ONTAP nicht unterstützt.
+
 
 
 == Vorteile der Verwendung von Software-Updates
