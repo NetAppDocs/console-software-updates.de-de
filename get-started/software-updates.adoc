@@ -69,4 +69,4 @@ Zu den Vorteilen der Aktualisierung Ihres ONTAP Speichersystems gehören:
 
 == Kosten
 
-NetApp berechnet Ihnen keine Gebühren für die Nutzung von Software-Updates.
+Software-Updates sind im Rahmen eines aktiven Supportvertrags verfügbar.
