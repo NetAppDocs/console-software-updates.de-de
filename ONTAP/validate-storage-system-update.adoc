@@ -4,7 +4,7 @@ permalink: ONTAP/validate-storage-system-update.html
 keywords: validate status of ontap update, track status of ontap update 
 summary: Überprüfen Sie den Status Ihres ONTAP -Updates, um die nächsten Schritte zu entscheiden. 
 ---
-= Überprüfen Sie den Status des ONTAP -Speichersystem-Updates
+= Status eines ONTAP Updates in Software-Updates validieren
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

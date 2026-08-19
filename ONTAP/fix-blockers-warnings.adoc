@@ -4,7 +4,7 @@ permalink: ONTAP/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
 summary: Beheben Sie ONTAP Blocker und bestätigen Sie Warnungen, die Sie daran hindern, das ONTAP Update abzuschließen. 
 ---
-= Beheben Sie alle Blocker mithilfe von Software-Updates vor einem ONTAP -Upgrade
+= ONTAP-Blocker und Warnungen bei Software-Updates beheben
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -20,7 +20,7 @@ Sie müssen alle Blocker beheben und bestätigen, bevor Sie die Software aktuali
 +
 Die Konsole zeigt die Liste der Cluster an, die ein Software-Update erfordern.
 
-. Identifizieren Sie die ONTAP Zielversion für Ihr Speichersystem.  Informationen zum Identifizieren der ONTAP Zielversion finden Sie unterlink:../ONTAP/choose-ontap-910-later.html["Vergleichen Sie ONTAP -Versionen, um die Vorteile und Risiken der Verwendung von Software-Updates zu verstehen"] .
+. Ermitteln Sie die ONTAP-Zielversion für Ihr Speichersystem. Informationen zur Ermittlung der ONTAP Zielversion finden Sie unter link:../ONTAP/choose-ontap-910-later.html["ONTAP Versionen mit Software-Updates vergleichen"].
 . Nachdem Sie sich für die ONTAP Zielversion entschieden haben, wählen Sie *Für Update vorbereiten*, um den Update-Vorgang zu starten.
 +
 Die Liste der Blocker und Warnungen wird angezeigt.

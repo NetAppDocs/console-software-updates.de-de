@@ -4,7 +4,7 @@ permalink: get-started/prerequisites-ontap-update.html
 keywords: prerequisites for ontap update, ontap update requirements, ontap update versions, prepare for ontap update 
 summary: Überprüfen Sie die Voraussetzungen und Anforderungen, bevor Sie mit Ihrem ONTAP Update fortfahren. 
 ---
-= Bereiten Sie sich auf die Aktualisierung von ONTAP mithilfe von Software-Updates vor
+= Voraussetzungen für die Aktualisierung von ONTAP in Software-Updates
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/

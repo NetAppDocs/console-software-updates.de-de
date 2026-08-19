@@ -17,6 +17,7 @@ Software-Updates automatisieren die Bewertungs-, Planungs- und Ausführungsproze
 
 
 
+[[netapp-console]]
 == NetApp Console
 
 Auf Software-Updates kann über die NetApp Console zugegriffen werden.
@@ -29,6 +30,7 @@ Erfahren Sie mehr über die https://docs.netapp.com/us-en/bluexp-setup-admin/con
 
 
 
+[[supported-ontap-systems]]
 == Unterstützte ONTAP -Systeme
 
 Sie können das ONTAP-Update nur mit Software-Updates abschließen, wenn Sie ONTAP 9.10.1 oder eine spätere Version verwenden.
@@ -52,6 +54,7 @@ NOTE: Software-Updates werden mit Cloud Volumes ONTAP nicht unterstützt.
 
 
 
+[[benefits-of-using-software-updates]]
 == Vorteile der Verwendung von Software-Updates
 
 Durch die Aktualisierung Ihres ONTAP Speichersystems können Sie die Leistung, Sicherheit und Funktionalität Ihres Speichersystems verbessern.
@@ -67,6 +70,7 @@ Zu den Vorteilen der Aktualisierung Ihres ONTAP Speichersystems gehören:
 
 
 
+[[cost]]
 == Kosten
 
 Software-Updates sind im Rahmen eines aktiven Supportvertrags verfügbar.
